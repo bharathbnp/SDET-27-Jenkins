@@ -30,10 +30,17 @@ public class DemoTest
 	System.out.println("I am demo 3 for jenkins");
 	}
 	
+
 	@Test
 	public void demo4Test()
 	{
 	System.out.println("I am demo 4 for jenkins");
+	}
+
+	@Test
+	public void demo5Test()
+	{
+	System.out.println("I am demo 5 for jenkins");
 	}
 	
 }
