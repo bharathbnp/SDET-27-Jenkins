@@ -27,6 +27,12 @@ public class LoginTest
 	System.out.println("I am login 3 for jenkins");
 	}
 	
+	@Test
+	public void login4Test()
+	{
+	System.out.println("I am login 4 for jenkins");
+	}
+	
 	
 	
 	

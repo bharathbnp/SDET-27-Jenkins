@@ -43,4 +43,10 @@ public class DemoTest
 	System.out.println("I am demo 5 for jenkins");
 	}
 	
+	
+	@Test
+	public void demo6Test()
+	{
+	System.out.println("I am demo 6 for jenkins");
+	}
 }
